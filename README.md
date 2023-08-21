@@ -1,4 +1,4 @@
 # bd1_wikibot
 Bot enriching Wikidata with Star Wars knowledge
 
-Made by [https://www.wikidata.org/wiki/User:Metafire18](Metafire18)
+Made by [Metafire18](https://www.wikidata.org/wiki/User:Metafire18)
